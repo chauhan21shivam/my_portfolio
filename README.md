@@ -11,7 +11,7 @@
 
 <br>
 
-![screenshot](https://github.com/GregSithole/gregsithole-react-portfolio/raw/master/src/assets/screenshot.png)
+![screenshot](https://github.com/chauhan21shivam/my_portfolio/blob/main/src/assets/screenshot.png)
 
 ## How To Use
 
@@ -25,10 +25,10 @@ $ git clone https://github.com/GregSithole/gregsithole-react-portfolio
 $ cd gregsithole-react-portfolio
 
 # Install dependencies
-$ yarn install
+$ npm install
 
 # Run the app
-$ yarn start
+$ npm start
 ```
 
 <!-- ## Credits
