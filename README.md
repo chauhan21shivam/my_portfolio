@@ -1,13 +1,13 @@
 <h1 align="center">
   <br>
-  <a href="http://gregsithole.com">
+  <a href="https://shivamchauhan-portfolio.netlify.app">
   <img src="./src/assets/light-logo.svg" alt="ShivamChauhan" width="200"></a>
   <br>
   Shivam Chauhan's Personal Website
   <br>
 </h1>
 
-<h4 align="center">A simple personal website about <a href="http://gregsithole.com" target="_blank"> Shivam Chauhan</a>.</h4>
+<h4 align="center">A simple personal website about <a href="https://shivamchauhan-portfolio.netlify.app" target="_blank"> Shivam Chauhan</a>.</h4>
 
 <br>
 
