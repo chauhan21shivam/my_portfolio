@@ -1,63 +1,33 @@
-# Shivam Chauhan's Portfolio
 
-Welcome to my portfolio website! This repository contains the source code for my personal portfolio, showcasing my skills, projects, and experience.
+<h1 align="center">
+  <br>
+  <a href="https://shivamchauhan-portfolio.netlify.app">
+  <img src="./src/assets/light-logo.svg" alt="ShivamChauhan" width="200"></a>
+  <br>
+  Shivam Chauhan's Personal Website
+  <br>
+</h1>
 
-## Live Demo
+<h4 align="center">A simple personal website about <a href="https://shivamchauhan-portfolio.netlify.app" target="_blank"> Shivam Chauhan</a>.</h4>
 
-Check out the live version of my portfolio [here](https://portfolio-shivamchauhan.netlify.app).
+<br>
 
-## Technologies Used
+![screenshot](https://github.com/chauhan21shivam/my_portfolio/blob/main/src/assets/screenshot.png)
 
-- **HTML**: Structure of the web pages.
-- **CSS**: Styling and layout.
-- **JavaScript**: Interactivity and dynamic content.
+## How To Use
 
-## Prep for animation
-here's how i did the animation thingy
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/). From your command line:
 
-- i. Take a still video of your head moving in each direction (Top, Bottom, Left, Right)
-- ii. Save 5 or more frames/snapshots from the video in each direction.
-- iii. Now you have a total of 20 frames/images, 5 of each direction.
-- iv. Using https://www.remove.bg/remove background of all the images.
-- v. Give b/w sketchy look to all the images using https://goart.fotor.com/
-- vi. Remove background of all the sketch images. now you have ready to use images to use in your animation.
-- vii. You can use Animation, Transistion properties to mimic an animation/video like effect.
+```bash
+# Clone this repository
+$ git clone https://github.com/GregSithole/gregsithole-react-portfolio
 
+# Go into the repository
+$ cd gregsithole-react-portfolio
 
+# Install dependencies
+$ npm install
 
-
-
-
-
-## Features
-
-- **Home**: Introduction and overview of who I am.
-- **About**: Detailed information about my background, skills, and interests.
-- **Projects**: Showcase of my projects with descriptions and links to the live demos and source code.
-- **Contact**: Form to get in touch with me directly.
-
-## Getting Started
-
-To run this project locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/BHAVISHEK1/Portfolio.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Portfolio
-   ```
-3. Open `index.html` in your preferred web browser.
-
-## Folder Structure
-
-- `assets/`: Contains images and other assets used in the portfolio.
-- `css/`: Stylesheets for the website.
-- `js/`: JavaScript files for interactive elements.
-- `index.html`: Main HTML file.
-
-## Contact
-
-You can reach me at [chauhan21shivam@gmail.com](mailto:chauhan21shivam@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/chauhan21shivam).
-
+# Run the app
+$ npm start
+```
