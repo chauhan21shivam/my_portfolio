@@ -68,7 +68,7 @@ const HeaderSocials = () => {
       </a> */}
 
       <a
-        href="https://www.instagram.com/i__amshiv_am"
+        href="https://www.instagram.com/shivamchauhan.21"
         className="home__social-link"
         target="_blank"
         rel="noreferrer"
