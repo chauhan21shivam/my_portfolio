@@ -1,67 +1,63 @@
-<h1 align="center">
-  <br>
-  <a href="https://shivamchauhan-portfolio.netlify.app">
-  <img src="./src/assets/light-logo.svg" alt="ShivamChauhan" width="200"></a>
-  <br>
-  Shivam Chauhan's Personal Website
-  <br>
-</h1>
+# Shivam Chauhan's Portfolio
 
-<h4 align="center">A simple personal website about <a href="https://shivamchauhan-portfolio.netlify.app" target="_blank"> Shivam Chauhan</a>.</h4>
+Welcome to my portfolio website! This repository contains the source code for my personal portfolio, showcasing my skills, projects, and experience.
 
-<br>
+## Live Demo
 
-![screenshot](https://github.com/chauhan21shivam/my_portfolio/blob/main/src/assets/screenshot.png)
+Check out the live version of my portfolio [here](https://portfolio-shivamchauhan.netlify.app).
 
-## How To Use
+## Technologies Used
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/). From your command line:
+- **HTML**: Structure of the web pages.
+- **CSS**: Styling and layout.
+- **JavaScript**: Interactivity and dynamic content.
 
-```bash
-# Clone this repository
-$ git clone https://github.com/GregSithole/gregsithole-react-portfolio
+## Prep for animation
+here's how i did the animation thingy
 
-# Go into the repository
-$ cd gregsithole-react-portfolio
+- i. Take a still video of your head moving in each direction (Top, Bottom, Left, Right)
+- ii. Save 5 or more frames/snapshots from the video in each direction.
+- iii. Now you have a total of 20 frames/images, 5 of each direction.
+- iv. Using https://www.remove.bg/remove background of all the images.
+- v. Give b/w sketchy look to all the images using https://goart.fotor.com/
+- vi. Remove background of all the sketch images. now you have ready to use images to use in your animation.
+- vii. You can use Animation, Transistion properties to mimic an animation/video like effect.
 
-# Install dependencies
-$ npm install
 
-# Run the app
-$ npm start
-```
 
-<!-- ## Credits
 
-This website uses the following open source packages:
 
-- [Node.js](https://nodejs.org/)
 
-## Related
 
-[markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify
+## Features
 
-## Support -->
+- **Home**: Introduction and overview of who I am.
+- **About**: Detailed information about my background, skills, and interests.
+- **Projects**: Showcase of my projects with descriptions and links to the live demos and source code.
+- **Contact**: Form to get in touch with me directly.
 
-<!-- <a href="https://www.buymeacoffee.com/5Zn8Xh3l9" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> -->
+## Getting Started
 
-<!-- <p>Or</p>
+To run this project locally:
 
-<a href="https://www.patreon.com/amitmerchant">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a> -->
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/BHAVISHEK1/Portfolio.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Portfolio
+   ```
+3. Open `index.html` in your preferred web browser.
 
-<!-- ## You may also like...
+## Folder Structure
 
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
+- `assets/`: Contains images and other assets used in the portfolio.
+- `css/`: Stylesheets for the website.
+- `js/`: JavaScript files for interactive elements.
+- `index.html`: Main HTML file.
 
-## License
+## Contact
 
-MIT
+You can reach me at [chauhan21shivam@gmail.com](mailto:chauhan21shivam@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/chauhan21shivam).
 
----
-
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant) -->
